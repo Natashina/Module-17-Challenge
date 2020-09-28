@@ -21,7 +21,7 @@ the balanced_accuracy_score of 0.544, high risk recall of 0.67 (slightly better 
 
 ## 3 A combination over- and under-sampling algorithm (SMOTEENN) was tested to determine if the algorithm results in the best performance compared to the other sampling algorithms above.
 
-![Table3](Capture3.PNG)
+![Table3](Capture3.1.PNG)
 
 
 
