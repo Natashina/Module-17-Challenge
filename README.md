@@ -4,7 +4,7 @@ ANALYSIS
 
 Dataset contains information on loan application.
 
-Refer to credit_risk_resampling_N.ipynb file. 
+Refer to credit_risk_resampling_N.ipynb file for implementation of models and calculation.
 
 ## 1.1 Oversampling on the dataset using two oversampling algorithms - naive random oversampling algorithm and the SMOTE algorithm.
 As illustrated in the table below the balanced_accuracy_score of random oversampling algorithm equals to 0.682 and it is better than the score of SMOTE algorithm of 0.663.
@@ -19,9 +19,10 @@ the balanced_accuracy_score of 0.544, high risk recall of 0.67 (slightly better 
 
 ![Table2](Capture2.PNG)
 
-##1.3 gfhj
+## 3 A combination over- and under-sampling algorithm (SMOTEENN) was tested to determine if the algorithm results in the best performance compared to the other sampling algorithms above.
 
-##1.4
+![Table2](Capture3.PNG)
+
 
 
 While resampling can attempt to address imbalance, it does not guarantee better results.
