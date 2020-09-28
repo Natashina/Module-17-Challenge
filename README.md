@@ -2,9 +2,14 @@
 
 ANALYSIS
 
+Dataset contains information on loan application.
+
 Refer to credit_risk_resampling_N.ipynb file. 
 
 ##1.1 Oversampling on the dataset using two oversampling algorithms - naive random oversampling algorithm and the SMOTE algorithm.
+
+
+
 
 0.6818082620937491  vs 0.6630372491178023
 
