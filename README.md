@@ -13,12 +13,10 @@ The high risk precision of 0.01 is very law in both models and recall is better 
 ![Table1](Capture1.1.PNG)
 
 
-0.72
 
+##2 ClusterCentroids resampling moduleI.
 
-
-##1.2 ghj
-Instantiated the ClusterCentroids resampling moduleI.
+![Table2](Capture2.PNG)
 
 ##1.3 gfhj
 
