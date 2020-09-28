@@ -8,7 +8,7 @@ Refer to credit_risk_resampling_N.ipynb file.
 
 ##1.1 Oversampling on the dataset using two oversampling algorithms - naive random oversampling algorithm and the SMOTE algorithm.
 As illustrated in the table below the balanced_accuracy_score of random oversampling algorithm equals to 0.682 and it is better than the score of SMOTE algorithm of 0.663.
-The precision of 0.01 is very law in both models and recall is better for naive random oversampling algorithm.
+The high risk precision of 0.01 is very law in both models and recall is better for naive random oversampling algorithm.
 
 ![Table1](Capture1.1.PNG)
 
