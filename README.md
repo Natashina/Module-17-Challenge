@@ -11,7 +11,7 @@ Refer to credit_risk_resampling_N.ipynb file.
 ![Table1](Capture1.1.PNG)
 
 
-0.6818082620937491  vs 0.6630372491178023
+As illustrated in the table below the balanced_accuracy_score of random oversampling algorithm equals to 0.6818082620937491 while the same score of SMOTE algorithm is 0.6630372491178023.
 
 ##1.2 ghj
 Instantiated the ClusterCentroids resampling moduleI.
