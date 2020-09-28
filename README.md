@@ -14,7 +14,7 @@ The high risk precision of 0.01 is very law in both models and recall is better 
 
 
 
-##2 ClusterCentroids resampling moduleI.
+##2 ClusterCentroids resampling moduleI has lower metrics in comparison to two oversampling algorithms as shown in the table below.
 
 ![Table2](Capture2.PNG)
 
