@@ -8,7 +8,7 @@ Refer to credit_risk_resampling_N.ipynb file.
 
 ##1.1 Oversampling on the dataset using two oversampling algorithms - naive random oversampling algorithm and the SMOTE algorithm.
 
-
+![Table1](Capture1.1.PNG)
 
 
 0.6818082620937491  vs 0.6630372491178023
