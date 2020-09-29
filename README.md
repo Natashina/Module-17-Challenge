@@ -33,10 +33,13 @@ While resampling can attempt to address imbalance, it does not provide better re
 
 To summarize, the resampling techniques such as SMOTE, Cluster Centroids and SMOTEENN do not have favourably distinguished outcome. The high risk precision resulting in every of these algorithms is equal to 0.01 which is not acceptable for  decision making.
 
+
 ## 4. Balanced Random Forest Classifier and an Easy Ensemble AdaBoost classifier 
 
-Two ensemble models were implemented to determine which algorithm results in the best performance. The following table shows the comparison of the core metrics.
+Two ensemble models were implemented to determine which algorithm results in the best performance. Refer to credit_risk_ensemble_N.ipynb file for evaluation of models. 
+The following table shows the comparison of the core metrics.
 
 ![Table3](Capture4.1.PNG)
 
 Random Forest Classifier provides the best result. Although the balanced_accuracy_score of 0.653 is lower vs 0.981, the same score of Easy Ensemble AdaBoost classifier, it shows the highest score in high risk precision of 0.82.
+Recommendation. Random Forest Classifier should be used to predict credit risk.
