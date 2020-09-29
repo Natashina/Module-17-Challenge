@@ -41,5 +41,8 @@ The following table shows the comparison of the core metrics.
 
 ![Table3](Capture4.1.PNG)
 
-Random Forest Classifier provides the best result. Although the balanced_accuracy_score of 0.653 is lower vs 0.981, the same score of Easy Ensemble AdaBoost classifier, it shows the highest score in high risk precision of 0.82.
+Random Forest Classifier provides the best result. Although the balanced_accuracy_score of 0.653 is lower vs 0.981, the same score of Easy Ensemble AdaBoost classifier, it shows the highest score in high risk precision of 0.82. That indicates an reliable positive classification. 
+The recall of 0.31 is quite low for the high risk loans, which is indicative of a large number of false negatives. However the F1 score of 0.45 resulted with Random Forest Classifier is higher than F1 score with AdaBoost classifier of 0.32.
+
+The random forest model is good at classifying high risk loans because the model’s accuracy of 0.82 and F1 score are high.
 Recommendation. Random Forest Classifier should be used to predict credit risk.
