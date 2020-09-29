@@ -14,12 +14,15 @@ The high risk precision of 0.01 is very law in both models and recall is better 
 
 
 
-## 2 ClusterCentroids resampling moduleI has lower metrics in comparison to oversampling algorithms as shown in the table below: 
+## 2 ClusterCentroids resampling modeI
+It has lower metrics in comparison to oversampling algorithms as shown in the table below: 
 the balanced_accuracy_score of 0.544, high risk recall of 0.67 (slightly better than in SMOTE algorithm) and the same high risk precision of 0.01.
 
 ![Table2](Capture2.PNG)
 
-## 3 A combination over- and under-sampling algorithm (SMOTEENN) was tested to determine if the algorithm results in the best performance compared to the other sampling algorithms above.
+## 3 A combination over- and under-sampling algorithm (SMOTEENN) 
+
+It was tested to determine if the algorithm results in the best performance compared to the other sampling algorithms above.
 
 ![Table3](Capture3.1.PNG)
 
