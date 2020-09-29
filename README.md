@@ -35,8 +35,8 @@ To summarize, the resampling techniques such as SMOTE, Cluster Centroids and SMO
 
 ## 4. Balanced Random Forest Classifier and an Easy Ensemble AdaBoost classifier 
 
-Two ensemble models were implemented to determine which algorithm results in the best performance. The following table show the comparison of the core metrics.
+Two ensemble models were implemented to determine which algorithm results in the best performance. The following table shows the comparison of the core metrics.
 
 ![Table3](Capture4.1.PNG)
 
-Random Forest Classifier provides the best result. Although the balanced_accuracy_score is 0.653 vs 0.981, the score of Easy Ensemble AdaBoost classifier, it shows the highest score in high risk precision of 0.82.
+Random Forest Classifier provides the best result. Although the balanced_accuracy_score of 0.653 is lower vs 0.981, the same score of Easy Ensemble AdaBoost classifier, it shows the highest score in high risk precision of 0.82.
