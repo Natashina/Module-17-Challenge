@@ -2,7 +2,7 @@
 
 ANALYSIS
 
-Dataset contains information on loan application.
+Dataset in LoanStats_.2019Q1.csv file contains information on 115.675 loans.
 
 Refer to credit_risk_resampling_N.ipynb file for implementation of over- and under- sampling techniques. 
 A LogisticRegression model has been used to generate predictions.
