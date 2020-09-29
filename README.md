@@ -4,7 +4,7 @@ ANALYSIS
 
 Dataset contains information on loan application.
 
-Refer to credit_risk_resampling_N.ipynb file for implementation of models and calculation. 
+Refer to credit_risk_resampling_N.ipynb file for implementation of over- and under- sampling techniques. 
 A LogisticRegression model has been used to generate predictions.
 
 ## 1 Oversampling on the dataset - naive random oversampling algorithm and the SMOTE algorithm.
