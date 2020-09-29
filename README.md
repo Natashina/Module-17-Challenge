@@ -31,4 +31,4 @@ It was tested to determine if the algorithm results in the best performance comp
 Resampling with SMOTEENN results some better metrics than undersampling model.
 While resampling can attempt to address imbalance, it does not provide better results.
 
-To summarize, the resampling techniques such as SMOTE, Cluster Centroids and SMOTEENN do not have favourably distinguished outcome.
+To summarize, the resampling techniques such as SMOTE, Cluster Centroids and SMOTEENN do not have favourably distinguished outcome. The high risk precision resulting in every of these algorithms is equal to 0.01 which is not acceptable for  decision making.
